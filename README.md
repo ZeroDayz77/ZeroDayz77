@@ -2,7 +2,7 @@
 
 <h3> The name's Darnell..</h3>
 
-I am Software Engineer/Developer in training from the small island of Trinidas. I am dedicated and eager to learn new things each day, grow my understanding of technology and work towards being a part of something impactful to the world. Currently pursuing a BSc in Computer Science.
+I am Software Engineer/Developer in training from the small island of Trinidad. I am dedicated and eager to learn new things each day, grow my understanding of technology and work towards being a part of something impactful to the world. Currently pursuing a BSc in Computer Science.
 
 I am also a semi-professional archer and artist for over a decade!
 
