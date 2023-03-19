@@ -4,7 +4,7 @@
 
 I am a Software Engineer/Developer in training from the small island of Trinidad. I am dedicated and eager to learn new things each day, grow my understanding of technology and work towards being a part of something impactful to the world. Currently pursuing a BSc in Computer Science.
 
-I have interests in: General Purpose Software / Application Development | Embedded Systems | ML & AI 
+I have interests in: General Purpose Software / Application Development | Game Development | Embedded Systems | ML & AI 
 
 And I am also a semi-professional archer and artist for over a decade!
 
