@@ -47,6 +47,8 @@ And I am also a semi-professional archer and artist for over a decade!
 
 ### Contact Me
 
+Website: <a href="https://darnellgarcia.vercel.app/">Portfolio</a>
+
 Email: darnellgarcia26@gmail.com
 
 LinkedIn: <a href="https://www.linkedin.com/in/darnell-garcia/">Darnell Garcia</a>
