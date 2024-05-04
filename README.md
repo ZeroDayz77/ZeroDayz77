@@ -41,6 +41,7 @@ And I am also a semi-professional archer and artist for over a decade!
 <img align="left" alt="AWS" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+<img align="left" alt="WordPress" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg">
 <br/>
 
 #
@@ -48,6 +49,12 @@ And I am also a semi-professional archer and artist for over a decade!
 ### My Leetcode Progress
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/charisyt26)
+
+#
+
+### Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=zerodayz77&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 #
 
