@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=zerodayz77&abbreviated=true&style=plastic&label=Past+Lurkers)
 # Thanks for stopping by!
 
 <h3> The name's Darnell..</h3>
