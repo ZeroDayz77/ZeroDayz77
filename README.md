@@ -3,9 +3,9 @@
 
 <h3> The name's Darnell..</h3>
 
-I am a Software Engineer/Developer from the small island of Trinidad. I am dedicated and eager to learn new things each day, grow my understanding of technology and work towards being a part of something impactful to the world. Currently pursuing a BSc in Computer Science.
+I am a Software Engineer and Computer Science Major from the small island of Trinidad. Focused on bridging the gap between creatives and engineers, turning ideas into innovations.
 
-I have interests in: General Purpose Software / Application Development | Game Development | Embedded Systems | ML & AI 
+I have interests in: Full Stack Engineering | UI/UX Design | Mobile App Development ( Android Studio ) | General Purpose Software / Application Development | Embedded Systems | ML & AI | Cloud Engineering & DevOps
 
 And I am also a semi-professional archer and artist for over a decade!
 
@@ -50,12 +50,6 @@ And I am also a semi-professional archer and artist for over a decade!
 ### My Leetcode Progress
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/charisyt26)
-
-#
-
-### Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=zerodayz77&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 #
 
